@@ -34,3 +34,6 @@ div {
   border-top-color: #8a2be2;
 }
 
+#purple { /* this selects any elements with the purple id */
+  border-top-color: #d300c9;
+}
